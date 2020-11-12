@@ -1,6 +1,8 @@
 # [Mattia Cinelli](https://www.linkedin.com/in/mattia-cinelli-b8a06879/)
 I am a Data Scientist, with experience in machine learning, computer science, statistics, mathematics, deep learning, data visualization, and communication in different STEM disciplines.
+
 Ph.D. in computational immunology in the department of Infection and Immunity at UCL, doctorate founded by Microsoft Research Cambridge.
+
 Double background in computer science (M.Sc.) and molecular biology (B.Sc.).
 Extensive research experience gained in several international research laboratories across all my academic career.
 Motivated and interested in challenging and stimulating new goals. 
