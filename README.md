@@ -24,7 +24,7 @@ It can use a text file from https://coolors.co or a list of hexadecimal codes an
 
 - # Sankey Plot in Python
 Example of Data Visualization
-![Banner](https://mattiacinelli.com/wp-content/uploads/2020/05/sankey_plot_3.png)
+![Banner](https://mattiacinelli.com/wp-content/uploads/2020/05/sankey_plot_3.png =100x20)
 If you have been more than five seconds on r/dataisbeautiful/, you will have probably encountered a Sankey plot. Everyone uses to track their expenses, job searching and every multi step processes. Indeed, it is very suitable to visualize the progression of events and their outcome.
 And in my opinion, they look great!
 
