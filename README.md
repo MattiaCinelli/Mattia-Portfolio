@@ -19,7 +19,8 @@ A portfolio of my works in Data Science:
 # Curriculum Vitae
 ## Work Experience
 - Contractor Data Scientist at Data Scientist at Department of Health and Social Care (Nov 2020 - Present)
-  Team: Test & Trace Program
+  
+Team: Test & Trace Program
   Role: Test Analytics and Modelling
 - Contractor Data Scientist at Sensyne Health (March 2020 – July 2020)
   Analysis of NHS Medical Database for patients affected from Covid-19, resulting in a near-live ML prediction of patient outcome from lab data. Deployment of such code in two partnership hospitals.
