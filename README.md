@@ -19,8 +19,48 @@ A portfolio of my works in Data Science:
 # Curriculum Vitae
 [(Back to top)](#mattia-cinelli)
 
+## Work Experience
+- Contractor Data Scientist at Sensyne Health March 2020 – Present.
+Early risk assessment for COVID-19 patients from emergency department data using machine learning
+- Data Scientist at Intellegens, Dec 2019 – March 2020
+Role: Intellegens News , Cambridge independent
+- Computational Scientist at Inivata: Jan 2017 – Nov 2019
+Role: To use main computational statistical research for the analysis of cancer genomics data, biomarker development, optimisation of Inivata’s technology and analysis of clinical data in collaboration with Inivata’s partners.
+
+## Education
+- Doctor of Philosophy (Ph.D.)
+University College London (UCL), United Kingdom, 2013 – 2017
+Field Of Study: Computational Immunology
+Thesis title: Analysis of murine CDR3β repertoires using machine learning techniques (2018)
+
+Role: I analysed the role and mechanisms of the CDR3 sequence, a short protein region present on the T cell receptor, using state of the art of machine learning methods. The intent of my research was to apply and develop methods for the classification of CDR3 repertoires and, though the classification process, identify the amino acids and positions that play a major role in the mechanism of antigen recognition.
+
+Founded by Microsoft 2013 PhD Scholarship Programme in EMEA Microsoft scholarships consist of an annual bursary up to a maximum of three years for PhD supervisors and students to do collaborative research projects with Microsoft Research Cambridge.
+
+### Publications:
+- Tracking global changes induced in the CD4 T-cell receptor repertoire by immunization with a complex antigen using short stretches of CDR3 protein sequence. (2014)
+- Feature selection using a one dimensional naïve Bayes’ classifier increases the accuracy of support vector machine classification of CDR3 repertoires. (2017)
+- Specificity, Privacy, and Degeneracy in the CD4 T Cell Receptor Repertoire Following Immunization. (2017)
+
+## Master’s Degree (MSc) in Bioinformatics
+Alma Mater Studiorum – University of Bologna, Italy, 2011 – 2013
+Field Of Study: Bioinformatics
+- Thesis title: Simulating gene co-regulatory networks in the development of B-cells.
+
+Erasmus and thesis completion: University of Tampere, Finland. January-July 2013
+Thesis in B cell genomics modelling using Random Neural Network in the Computational Biology Group, Institute of Biomedical Technology, University of Tampere (Finland)
+
+The 10th International Workshop on Computational Systems Biology, WCSB 2013, June 10-12, Tampere, Finland
+
+## Bachelor’s Degree (BSc) Molecular Biology
+Università degli Studi di Padova, Italy, 2009 – 2011 and Università degli Studi dell’Aquila, Italy, 2007 – 2009
+Field Of Study: Molecular Biology / Biotechnology
+
+- Thesis title: In Silico study on ADAM22 and its interactions with LGI1 and KV1.1 (Molecular proteomics), in the lab of Professor Tosatto
+
 # Articles
 [(Back to top)](#mattia-cinelli)
+[Hidden Markov Model for Biological Sequence](https://towardsdatascience.com/hidden-markov-model-applied-to-biological-sequence-373d2b5a24c?sk=abcc2f06fba6f3c80bf483ec476ec16c)
 
 # Latest Projects: 
 [(Back to top)](#mattia-cinelli)
