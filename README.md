@@ -1,7 +1,7 @@
 # [Mattia Cinelli](https://www.linkedin.com/in/mattia-cinelli-b8a06879/)
 ![GitHub last commit](https://img.shields.io/github/last-commit/mattiacinelli/mycolorpalette)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MattiaCinelli-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mattia-cinelli-b8a06879/)
-[![Medium](https://img.shields.io/badge/Medium-MattiaCinelli-green?style=flat-square&logo=medium)](git@github.com:MattiaCinelli/MattiaCinelli.git)
+[![Medium](https://img.shields.io/badge/Medium-MattiaCinelli-green?style=flat-square&logo=medium)](https://mattia-cinelli.medium.com/)
 
 I am a Data Scientist, with experience in machine learning, computer science, statistics, mathematics, deep learning, data visualization, and communication in different STEM disciplines.
 
