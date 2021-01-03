@@ -21,6 +21,9 @@ Motivated and interested in challenging and stimulating new goals.
 - [Latest Projects](#latest-projects)
 
 # Curriculum Vitae
+
+---
+
 ## Work Experience
 - **Contractor Data Scientist at Data Scientist at Department of Health and Social Care** (Nov 2020 - Present)
   - *Role*: Test Analytics and Modelling
@@ -42,6 +45,8 @@ Motivated and interested in challenging and stimulating new goals.
   - *Role*: To use main computational statistical research for the analysis of cancer genomics data, biomarker development, optimisation of Inivata’s technology and analysis of clinical data in collaboration with Inivata’s partners.
   - Development of Inivata’s liquid biopsy technology, on the analysis of NGS for genomics lung cancer
   - Coding, testing, design of R packages and optimization of the production pipeline in Python and reporting in R/Latex for clinical decision support.
+
+---
 
 ## Education
 ### PhD
