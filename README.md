@@ -11,13 +11,12 @@ Double background in computer science (M.Sc.) and molecular biology (B.Sc.).
 Extensive research experience gained in several international research laboratories across all my academic career.
 Motivated and interested in challenging and stimulating new goals. 
 
-A portfolio of my works in Data Science:
 - [Curriculum Vitae](#curriculum-vitae)
   - [Work Experience](#work-experience)
   - [Education](#education)
     - [PhD](#phd)
     - [Master Degree](#master-degree)
-    - [Bachelor Degree](bachelor-degree)
+    - [Bachelor Degree](#bachelor-degree)
 - [Articles](#articles)
 - [Latest Projects](#latest-projects)
 
