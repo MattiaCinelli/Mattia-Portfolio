@@ -17,15 +17,25 @@ A portfolio of my works in Data Science:
 - [Latest Projects](#latest-projects)
 
 # Curriculum Vitae
-[(Back to top)](#mattia-cinelli)
-
 ## Work Experience
-- Contractor Data Scientist at Sensyne Health March 2020 – Present.
-Early risk assessment for COVID-19 patients from emergency department data using machine learning
+- Contractor Data Scientist at Data Scientist at Department of Health and Social Care (Nov 2020 - Present)
+  Team: Test & Trace Program
+  Role: Test Analytics and Modelling
+- Contractor Data Scientist at Sensyne Health (March 2020 – July 2020)
+  Analysis of NHS Medical Database for patients affected from Covid-19, resulting in a near-live ML prediction of patient outcome from lab data. Deployment of such code in two partnership hospitals.
+  - [Early risk assessment for COVID-19 patients from emergency department data using machine learning](https://www.medrxiv.org/content/10.1101/2020.05.19.20086488v1)
+  - [COVID-19 patient outcome assessment using selected features from emergency department data and feed-forward neural networks](https://www.linkedin.com/feed/update/urn:li:activity:6743105467569995776/) (MedAI conference)
+Patent resulting from above works
+
 - Data Scientist at Intellegens, Dec 2019 – March 2020
-Role: Intellegens News , Cambridge independent
+  - To build the company’s data analysis and feature engineering toolboxes
+  - ETL and analyses of big data databases and presentation of the results to the business’ clients
+  - Direct interaction with sales, clients to design and develop innovative solutions to customer needs
+
 - Computational Scientist at Inivata: Jan 2017 – Nov 2019
-Role: To use main computational statistical research for the analysis of cancer genomics data, biomarker development, optimisation of Inivata’s technology and analysis of clinical data in collaboration with Inivata’s partners.
+  - Role: To use main computational statistical research for the analysis of cancer genomics data, biomarker development, optimisation of Inivata’s technology and analysis of clinical data in collaboration with Inivata’s partners.
+  - Development of Inivata’s liquid biopsy technology, on the analysis of NGS for genomics lung cancer
+  - Coding, testing, design of R packages and optimization of the production pipeline in Python and reporting in R/Latex for clinical decision support.
 
 ## Education
 - Doctor of Philosophy (Ph.D.)
@@ -57,10 +67,10 @@ Università degli Studi di Padova, Italy, 2009 – 2011 and Università degli St
 Field Of Study: Molecular Biology / Biotechnology
 
 - Thesis title: In Silico study on ADAM22 and its interactions with LGI1 and KV1.1 (Molecular proteomics), in the lab of Professor Tosatto
-
+---
 # Articles
 [(Back to top)](#mattia-cinelli)
-[Hidden Markov Model for Biological Sequence](https://towardsdatascience.com/hidden-markov-model-applied-to-biological-sequence-373d2b5a24c?sk=abcc2f06fba6f3c80bf483ec476ec16c)
+- [Hidden Markov Model for Biological Sequence](https://towardsdatascience.com/hidden-markov-model-applied-to-biological-sequence-373d2b5a24c?sk=abcc2f06fba6f3c80bf483ec476ec16c)
 
 # Latest Projects: 
 [(Back to top)](#mattia-cinelli)
