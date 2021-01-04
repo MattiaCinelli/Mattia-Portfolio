@@ -26,8 +26,8 @@ Motivated and interested in challenging and stimulating new goals.
 
 ## Work Experience
 - **Contractor Data Scientist at Data Scientist at Department of Health and Social Care** (Nov 2020 - Present)
+  - Team: DHSC/T&T/Test Demand Modelling group Under
   - *Role*: Test Analytics and Modelling
-  - Team: Test & Trace Program
 
 - **Contractor Data Scientist at Sensyne Health** (March 2020 – July 2020)
   - Analysis of NHS Medical Database for patients affected from Covid-19, resulting in a near-live ML prediction of patient outcome from lab data. Deployment of such code in two partnership hospitals.
