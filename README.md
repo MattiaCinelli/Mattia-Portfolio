@@ -57,7 +57,7 @@ University College London (UCL), United Kingdom, 2013 – 2017
 *Field Of Study*: Computational Immunology
 - *Thesis title*: [Analysis of murine CDR3β repertoires using machine learning techniques.](https://www.researchgate.net/publication/332697445_Analysis_of_murine_CDR3b_repertoires_using_machine_learning_techniques) (2018)
 
-*Role*: I analysed the role and mechanisms of the CDR3 sequence, a short protein region present on the T cell receptor, using state of the art of machine learning methods. The intent of my research was to apply and develop methods for the classification of CDR3 repertoires and, though the classification process, identify the amino acids and positions that play a major role in the mechanism of antigen recognition.
+- *Role*: I analysed the role and mechanisms of the CDR3 sequence, a short protein region present on the T cell receptor, using state of the art of machine learning methods. The intent of my research was to apply and develop methods for the classification of CDR3 repertoires and, though the classification process, identify the amino acids and positions that play a major role in the mechanism of antigen recognition.
 
 Founded by [Microsoft 2013 PhD Scholarship Programme](https://www.microsoft.com/en-us/research/academic-program/phd-scholarship-europe-middle-east-africa/#!past-phd-scholars) in EMEA Microsoft scholarships consist of an annual bursary up to a maximum of three years for PhD supervisors and students to do collaborative research projects with [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/).
 
