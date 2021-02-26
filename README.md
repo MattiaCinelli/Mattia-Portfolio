@@ -1,7 +1,7 @@
 # [Mattia Cinelli](https://www.linkedin.com/in/mattia-cinelli-b8a06879/)
-![GitHub last commit](https://img.shields.io/github/last-commit/MattiaCinelli/MattiaCinelli/main)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MattiaCinelli-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mattia-cinelli-b8a06879/)
 [![Medium](https://img.shields.io/badge/Medium-MattiaCinelli-green?style=flat-square&logo=medium)](https://mattia-cinelli.medium.com/)
+![GitHub last commit](https://img.shields.io/github/last-commit/MattiaCinelli/MattiaCinelli/main)
 
 I am a Data Scientist, with experience in machine learning, computer science, statistics, mathematics, deep learning, data visualization, and communication in different STEM disciplines.
 
@@ -29,13 +29,13 @@ Motivated and interested in challenging and stimulating new goals.
 [(Back to top)](#mattia-cinelli)
 - **Contractor Data Scientist at Data Scientist at Department of Health and Social Care** (Nov 2020 - Present)
   - Team: DHSC/T&T/Test Demand Modelling group Under
-  - *Role*: Test Analytics and Modelling
+  - *Role*: Team Leader in the Test Analytics and Modelling
 
 - **Contractor Data Scientist at Sensyne Health** (March 2020 – July 2020)
   - Analysis of NHS Medical Database for patients affected from Covid-19, resulting in a near-live ML prediction of patient outcome from lab data. Deployment of such code in two partnership hospitals.
   - ### Publications:
-    - [Early risk assessment for COVID-19 patients from emergency department data using machine learning](https://www.medrxiv.org/content/10.1101/2020.05.19.20086488v1)
-    - [COVID-19 patient outcome assessment using selected features from emergency department data and feed-forward neural networks](https://www.linkedin.com/feed/update/urn:li:activity:6743105467569995776/) (MedAI conference)
+    - [Early risk assessment for COVID-19 patients from emergency department data using machine learning](https://www.nature.com/articles/s41598-021-83784-y) (Nature - Scientific Reports 2021)
+    - [COVID-19 patient outcome assessment using selected features from emergency department data and feed-forward neural networks](https://www.linkedin.com/feed/update/urn:li:activity:6743105467569995776/) (MedAI conference 2020)
   - Patent resulting from above works
 
 - **Data Scientist at Intellegens** (Dec 2019 – March 2020)
@@ -65,9 +65,9 @@ University College London (UCL), United Kingdom, 2013 – 2017
 Founded by [Microsoft 2013 PhD Scholarship Programme](https://www.microsoft.com/en-us/research/academic-program/phd-scholarship-europe-middle-east-africa/#!past-phd-scholars) in EMEA Microsoft scholarships consist of an annual bursary up to a maximum of three years for PhD supervisors and students to do collaborative research projects with [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/).
 
 #### Publications:
-- [Tracking global changes induced in the CD4 T-cell receptor repertoire by immunization with a complex antigen using short stretches of CDR3 protein sequence.](https://pubmed.ncbi.nlm.nih.gov/25095879/) (2014)
-- [Feature selection using a one dimensional naïve Bayes’ classifier increases the accuracy of support vector machine classification of CDR3 repertoires.](https://pubmed.ncbi.nlm.nih.gov/28073756/) (2017)
-- [Specificity, Privacy, and Degeneracy in the CD4 T Cell Receptor Repertoire Following Immunization.](https://pubmed.ncbi.nlm.nih.gov/28450864/) (2017)
+- [Tracking global changes induced in the CD4 T-cell receptor repertoire by immunization with a complex antigen using short stretches of CDR3 protein sequence.](https://pubmed.ncbi.nlm.nih.gov/25095879/) (Bioinformatics 2014)
+- [Feature selection using a one dimensional naïve Bayes’ classifier increases the accuracy of support vector machine classification of CDR3 repertoires.](https://pubmed.ncbi.nlm.nih.gov/28073756/) (Bioinformatics 2017)
+- [Specificity, Privacy, and Degeneracy in the CD4 T Cell Receptor Repertoire Following Immunization.](https://pubmed.ncbi.nlm.nih.gov/28450864/) (Front Immunol 2017)
 
 ### Master Degree
 **Master’s Degree (MSc) in Bioinformatics**
