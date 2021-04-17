@@ -27,11 +27,11 @@ Motivated and interested in challenging and stimulating new goals.
 
 ## Work Experience
 [(Back to top)](#mattia-cinelli)
-- **Contractor Data Scientist at Data Scientist at Department of Health and Social Care** (Nov 2020 - Present)
-  - Team: DHSC/T&T/Test Demand Modelling group Under
+- **Team Leader Data Scientist at Department of Health and Social Care (contractor position)** (Nov 2020 - Sep 2021)
   - *Role*: Team Leader in the Test Analytics and Modelling
+  - Team: DHSC/T&T/Test Demand Modelling group Under
 
-- **Contractor Data Scientist at Sensyne Health** (March 2020 – July 2020)
+- **Data Scientist at Sensyne Health (contractor position)** (March 2020 – July 2020)
   - Analysis of NHS Medical Database for patients affected from Covid-19, resulting in a near-live ML prediction of patient outcome from lab data. Deployment of such code in two partnership hospitals.
   - ### Publications:
     - [Early risk assessment for COVID-19 patients from emergency department data using machine learning](https://www.nature.com/articles/s41598-021-83784-y) (Nature - Scientific Reports 2021)
@@ -114,11 +114,11 @@ All chest radiographs were screened  by two expert physicians for quality contro
 
 In the picture below are show the three type of chest X-ray present in the database: 
 <p align="center">
-  <img src="https://mattiacinelli.com/wp-content/uploads/2020/10/output_5_0.png" alt="Chest X-Ray Images">
+  <img src="https://raw.githubusercontent.com/MattiaCinelli/notebooks/master/commons/normalVSpneumonia.png" alt="Chest X-Ray Images">
 </p>
 
 - ## [My Palette](https://github.com/MattiaCinelli/mycolorpalette)
-A fully pubblished Python Packege
+A fully published Python Packege
 ![Banner](https://github.com/MattiaCinelli/mycolorpalette/blob/master/commons/banner.png?raw=true)
 
 This [Python package](https://pypi.org/project/mypalette/) handles user created color palettes scheme to be used in Python plotting libraries (matplotlib, seaborn, etch).
