@@ -34,8 +34,8 @@ Motivated and interested in challenging and stimulating new goals.
 - **Data Scientist at Sensyne Health (contractor position)** (March 2020 – July 2020)
   - Analysis of NHS Medical Database for patients affected from Covid-19, resulting in a near-live ML prediction of patient outcome from lab data. Deployment of such code in two partnership hospitals.
   - ### Publications:
-    - [Early risk assessment for COVID-19 patients from emergency department data using machine learning](https://www.nature.com/articles/s41598-021-83784-y) (Nature - Scientific Reports 2021)
-    - [COVID-19 patient outcome assessment using selected features from emergency department data and feed-forward neural networks](https://www.linkedin.com/feed/update/urn:li:activity:6743105467569995776/) (MedAI conference 2020)
+    - [Early risk assessment for COVID-19 patients from emergency department data using machine learning](https://www.nature.com/articles/s41598-021-83784-y) Nature - Scientific Reports 2021
+    - [COVID-19 patient outcome assessment using selected features from emergency department data and feed-forward neural networks](https://link.springer.com/chapter/10.1007%2F978-3-030-70569-5_21) MedAI conference 2020
   - Patent resulting from above works
 
 - **Data Scientist at Intellegens** (Dec 2019 – March 2020)
