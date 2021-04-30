@@ -11,6 +11,8 @@ Double background in computer science (M.Sc.) and molecular biology (B.Sc.).
 Extensive research experience gained in several international research laboratories across all my academic career.
 Motivated and interested in challenging and stimulating new goals. 
 
+![Mattia's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattiaCinelli&count_private=true&theme=tokyonight)
+
 ## Table of contents
 - [Curriculum Vitae](#curriculum-vitae)
   - [Work Experience](#work-experience)
@@ -137,5 +139,3 @@ If you have been more than five seconds on r/dataisbeautiful/, you will have pro
 
 And in my opinion, they look great!
 
-# Mattia's GitHub stats
-![Mattia's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattiaCinelli&hide=contribs,prs&count_private=true&theme=tokyonight)
