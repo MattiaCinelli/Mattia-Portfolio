@@ -20,6 +20,7 @@ Motivated and interested in challenging and stimulating new goals.
     - [Bachelor Degree](#bachelor-degree)
 - [Articles](#articles)
 - [Latest Projects](#latest-projects)
+- [Mattia's GitHub stats](#Mattia's-GitHub-stats)
 
 # Curriculum Vitae
 
@@ -133,4 +134,8 @@ Example of Data Visualization
   <img src="https://miro.medium.com/max/3000/0*NgwTm8b9EMrbqCIG.png" alt="Sankey Plot in Python"  width="600"/>
 </p>
 If you have been more than five seconds on r/dataisbeautiful/, you will have probably encountered a Sankey plot. Everyone uses to track their expenses, job searching and every multi step processes. Indeed, it is very suitable to visualize the progression of events and their outcome.
+
 And in my opinion, they look great!
+
+# Mattia's GitHub stats
+![Mattia's GitHub stats](https://github-readme-stats.vercel.app/api?username=MattiaCinelli&hide=contribs,prs&count_private=true&theme=tokyonight)
