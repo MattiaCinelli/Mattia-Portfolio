@@ -5,7 +5,7 @@
 
 I am a Data Scientist, with experience in machine learning, computer science, statistics, mathematics, deep learning, data visualization, and communication in different STEM disciplines.
 
-Ph.D. in computational immunology in the department of Infection and Immunity at UCL, doctorate founded by Microsoft Research Cambridge.
+Ph.D. in Machine Learning applied to Computational Immunology in the department of Infection and Immunity at UCL, doctorate founded by Microsoft Research Cambridge.
 
 Double background in computer science (M.Sc.) and molecular biology (B.Sc.).
 Extensive research experience gained in several international research laboratories across all my academic career.
@@ -33,6 +33,7 @@ Motivated and interested in challenging and stimulating new goals.
 - **Team Leader Data Scientist at Department of Health and Social Care (contractor position)** (Nov 2020 - Sep 2021)
   - *Role*: Team Leader in the Test Analytics and Modelling
   - Team: DHSC/T&T/Test Demand Modelling group Under
+  - I'm the team leader for the group responsible for the creation and maintaining of the Python software that has enabled a reliable meta-analysis of the Covid-19 tests performed in England and, the creation of the weekly reporting on the prediction of testing for the government. My work in the department validated the use of custom created Python software for the pandemic effort, an approach that has been later adopted throughout the DHSC
 
 - **Data Scientist at Sensyne Health (contractor position)** (March 2020 – July 2020)
   - Analysis of NHS Medical Database for patients affected from Covid-19, resulting in a near-live ML prediction of patient outcome from lab data. Deployment of such code in two partnership hospitals.
@@ -97,8 +98,11 @@ Università degli Studi di Padova, Italy, 2009 – 2011 and Università degli St
 
 # Articles
 [(Back to top)](#mattia-cinelli)
+- [SOLID Coding in Python](https://towardsdatascience.com/solid-coding-in-python-1281392a6a94)
+- [Multiple Bayesian Tests in Row](https://towardsdatascience.com/multiple-bayesian-tests-in-row-2e4ad8fb5055)
+- [Bayes’ Theorem for Medical Tests](https://towardsdatascience.com/bayes-theorem-for-medical-test-f1fb12b579c6)
 - [Hidden Markov Model for Biological Sequence](https://towardsdatascience.com/hidden-markov-model-applied-to-biological-sequence-373d2b5a24c?sk=abcc2f06fba6f3c80bf483ec476ec16c)
-- [How to process bio-sequences for use in Data Science](https://towardsdatascience.com/how-to-process-bio-sequences-for-use-in-data-science-7740c199c412?sk=8dc2c5f0f1de3fc77fcf163ef2f4c39f)
+- [How to process Bio-Sequences for use in Data Science](https://towardsdatascience.com/how-to-process-bio-sequences-for-use-in-data-science-7740c199c412?sk=8dc2c5f0f1de3fc77fcf163ef2f4c39f)
 - [A Tutorial on Luigi, the Spotify’s Pipeline](https://towardsdatascience.com/a-tutorial-on-luigi-spotifys-pipeline-5c694fb4113e?sk=3369fda14eee4723cb7f93bf662849cb)
 - [How Probability Calibration Works](https://medium.com/analytics-vidhya/how-probability-calibration-works-a4ba3f73fd4d?sk=99d4336f0217a5f28da24571477a3a8d)
 - [Best free API for weather records: ERA5!](https://medium.com/analytics-vidhya/best-free-api-for-weather-records-era5-59c0e204829a?sk=d3c768282d23ebbdf016a09d006e09e5)
